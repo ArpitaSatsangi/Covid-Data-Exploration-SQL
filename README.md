@@ -4,7 +4,8 @@
 
 This project represented a multifaceted exploration of COVID-19 data, with the aim of providing a deeper understanding of the pandemic's global and regional dynamics. 
 
-### Scope: The project encompassed a detailed analysis of COVID-19 data, with a focus on both global and regional aspects of the pandemic. Additionally, The second phase of the project involved integrating COVID-19 cases data with vaccination records to assess the progress of vaccination efforts in different regions.
+### Scope: 
+The project encompassed a detailed analysis of COVID-19 data, with a focus on both global and regional aspects of the pandemic. Additionally, The second phase of the project involved integrating COVID-19 cases data with vaccination records to assess the progress of vaccination efforts in different regions.
 
 ### Tasks:
   - Data Querying and Sorting: The project involved complex SQL queries to extract and arrange data based on COVID-19 cases, deaths, and associated percentage metrics.
